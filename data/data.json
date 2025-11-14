@@ -2,7 +2,11 @@
     "delayed_launch": {
         "delayed": false,
         "date": "",
-        "time": ""
+        "time": "",
+        "launch_count": 1,
+        "launch_interval_from": 3600,
+        "launch_interval_to": 7200,
+        "current_launch_count": 0
     },
     "settings": {
         "chatgpt_custom_prompt": "Вы комментатор Telegram каналов. Пишите комментарии с ограничением в 200 символов. Пишите комментарий на языке текста, который я вам предоставляю. Можете использовать смайлики, но не используйте хэштеги. Постарайтесь не выделяться, что вы нейросеть.",
