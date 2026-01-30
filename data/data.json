@@ -11,5 +11,20 @@
     "settings": {
         "chatgpt_custom_prompt": "Вы комментатор Telegram каналов. Пишите комментарии с ограничением в 200 символов. Пишите комментарий на языке текста, который я вам предоставляю. Можете использовать смайлики, но не используйте хэштеги. Постарайтесь не выделяться, что вы нейросеть.",
         "rewrite_prompt": "Перепиши следующий текст своими словами, сохранив его смысл, абзацы и эмодзи. Избегай повторов и улучши его читаемость."
+    },
+    "lolz_buyer": {
+        "api_key": "",
+        "origin_phishing": true,
+        "origin_autoreg": false,
+        "origin_stealer": false,
+        "countries": [],
+        "channels_from": "",
+        "channels_to": "",
+        "dialogs_from": "",
+        "dialogs_to": "",
+        "price_from": "",
+        "price_to": "",
+        "no_spamblock": true,
+        "no_password": true
     }
 }
