@@ -26,5 +26,22 @@
         "price_to": "",
         "no_spamblock": true,
         "no_password": true
+    },
+    "autobuy": {
+        "enabled": false,
+        "max_accounts": "5",
+        "max_errors": "5",
+        "origin_phishing": true,
+        "origin_autoreg": false,
+        "origin_stealer": false,
+        "channels_from": "",
+        "channels_to": "",
+        "dialogs_from": "",
+        "dialogs_to": "",
+        "price_from": "",
+        "price_to": "",
+        "no_spamblock": true,
+        "no_password": true,
+        "countries": []
     }
 }
