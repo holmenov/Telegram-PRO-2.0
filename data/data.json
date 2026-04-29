@@ -29,6 +29,7 @@
     },
     "autobuy": {
         "enabled": false,
+        "download_json": false,
         "max_accounts": "5",
         "max_errors": "5",
         "origin_phishing": true,
